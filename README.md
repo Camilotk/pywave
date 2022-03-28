@@ -3,7 +3,7 @@
 Pywav é uma biblioteca para gerar sons .wav a partir de documentos que usam notação 
 
 ## Deps
-- pyrsec >= 1.0
+- [pyrsec](https://github.com/Camilotk/pyrsec) >= 1.0
 
 ## Exemplo
 
